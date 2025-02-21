@@ -7,5 +7,5 @@ curl \
 -X DELETE \
 -H "Authorization: Bearer {API_KEY}" \
 -H "Ngrok-Version: 2" \
-https://api.ngrok.com/endpoint_configurations/ec_2sJsSZ8qubuFN9bfu6PAuC2vxCE/oauth
+https://api.ngrok.com/endpoint_configurations/ec_2tLZ12zZk392tYpX61MICoP2mGY/oauth
 ```
